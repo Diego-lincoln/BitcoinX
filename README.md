@@ -1,10 +1,15 @@
 Para instalar o BitcoinX é bem simples. Pode utilizar qualquer versão LINUX ou WSL. Siga os passos abaixo:
 
 sudo apt-get update
+
 sudo apt install autoconf automake libtool pkg-config libffi-dev
+
 sudo apt install libsecp256k1-0
+
 sudo apt-get install libcurl4-openssl-dev
+
 ./gpubitcoinx
+
 
 Simples, fácil, rápido e muito descomplicado. O Sistema Bitcoin teve um custo total de produção e desenvolvimento de aproximadamente 3.1 Bitcoins em valores de hoje, janeiro de 2025. 
 Estou disponibilizando seu código completo para ajudar a criptocomunidade. 
