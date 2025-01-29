@@ -19,3 +19,5 @@ O sistema processa dados em LOOP diretamente pela GPU e tem a possibilidade de s
 Também implementei alguns recursos que podem ser utilizados para o sistema informar em um endereço WEB caso ache alguma carteira.
 O sistema também possui recursos para informar a REDE NEURAL ONLINE a quantidade de dados que cada terminal está processando e se o terminal está ATIVO ou INATIVO
 O BitcoinX também possui recurso avançado para pagar seus colaboradores com TOKENS ou CRIPTOMOEDAS.
+
+Todo o projeto está disponível no site ultron2.com
