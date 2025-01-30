@@ -1,4 +1,4 @@
-Para instalar o BitcoinX é bem simples. Pode utilizar qualquer versão LINUX ou WSL. Siga os passos abaixo:
+Installing BitcoinX is very simple. You can use any LINUX or WSL version. Follow the steps below:
 
 sudo apt-get update
 
@@ -11,18 +11,22 @@ sudo apt-get install libcurl4-openssl-dev
 ./gpubitcoinx
 
 
-Simples, fácil, rápido e muito descomplicado. O Sistema Bitcoin teve um custo total de produção e desenvolvimento de aproximadamente 3.1 Bitcoins em valores de hoje, janeiro de 2025. 
-Estou disponibilizando seu código completo para ajudar a criptocomunidade. 
+Simple, easy, fast and very straightforward. The Bitcoin System had a total production and development cost of approximately 3.1 Bitcoins in today's values, January 2025.
 
-O arquivo ultra.cr hoje possui 2.8 milhões de carteiras veriifcadas e todas com saldo atualizado em 2025. Sua disponibilização não é grtatuita.
-O sistema completo com os arquivos ultra.vr e public.cr pode ser adiquirido por 2.500 USDT a ser enviado para a carteira 0x1CE864dF66B44B22F22605b366Da928315A1ce17 (Rede Ethereum ERC20)
-Em caso de pagamento, enviar o comprovante para o e-mail xlocgpu@gmail.com
+I am making its complete code available to help the crypto community.
 
-Doações para ajudar a manter o prjeto também podem ser realizadas para esta mesma carteira em USDT ou ETHEREUM
+The ultra.cr file currently has 2.8 million verified wallets and all with balances updated in 2025. It is not free to make it available. The complete system with the ultra.vr and public.cr files can be purchased for 2,500 USDT to be sent to the wallet 0x1CE864dF66B44B22F22605b366Da928315A1ce17 (Ethereum ERC20 Network)
+In case of payment, send the receipt to the email xlocgpu@gmail.com
 
-O sistema processa dados em LOOP diretamente pela GPU e tem a possibilidade de subir tanto o arquivo ultra.cr quanto o arquivo public.cr para a VRAM da GPU.
-Também implementei alguns recursos que podem ser utilizados para o sistema informar em um endereço WEB caso ache alguma carteira.
-O sistema também possui recursos para informar a REDE NEURAL ONLINE a quantidade de dados que cada terminal está processando e se o terminal está ATIVO ou INATIVO
-O BitcoinX também possui recurso avançado para pagar seus colaboradores com TOKENS ou CRIPTOMOEDAS.
+Donations to help maintain the project can also be made to this same wallet in USDT or ETHEREUM
 
-Todo o projeto está disponível no site ultron2.com
+The system processes data in LOOP directly by the GPU and has the possibility of uploading both the ultra.cr file and the public.cr file to the GPU VRAM.
+
+I also implemented some resources that can be used for the system to inform a WEB address if it finds a wallet. The system also has features to inform the ONLINE NEURAL NETWORK of the amount of data that each terminal is processing and whether the terminal is ACTIVE or INACTIVE.
+BitcoinX also has an advanced feature to pay its collaborators with TOKENS or CRYPTOCURRENCIES.
+
+The entire project is available on the website ultron2.com
+
+Bitcoin donations: 1DiegoU6ETJXK9hNWVTeuK4Y8fkksPnEnK 
+
+USDT donations: 0x1CE864dF66B44B22F22605b366Da928315A1ce17
